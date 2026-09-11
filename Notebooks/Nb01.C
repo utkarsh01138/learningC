@@ -8,7 +8,7 @@ int main()
 
     /*
     for (int i = 0; i < 50; i++)
-        printf("%c", name[i]);
+        printf("%c", name   [i]);
 
     */
    printf("%s", name);
